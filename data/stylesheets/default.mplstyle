@@ -1,0 +1,11 @@
+font.size : 32
+font.family : serif
+savefig.format: pdf
+figure.figsize : 12.8, 9.6
+text.usetex : true
+text.latex.preamble: \usepackage{times}
+text.color :        000000
+axes.edgecolor :    000000
+xtick.color :       000000
+ytick.color :       000000
+axes.labelcolor :   000000
